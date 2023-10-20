@@ -1,6 +1,4 @@
 # Easy-VO-SLAM
-VSLAM-CH13工程代码注释版本
-# Easy-VO-SLAM
 《视觉SLAM十四讲第二版》-CH13工程代码注释版本
 
 Ubuntu18.04 + Ros Melodic
