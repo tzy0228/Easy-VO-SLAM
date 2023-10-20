@@ -27,7 +27,7 @@ find_package(Sophus REQUIRED)
 include_directories(${Sophus_INCLUDE_DIRS})
 
 # G2O
-set(CMAKE_PREFIX_PATH "/home/tzy/ORB3/ORB_SLAM3_rostopic/Thirdparty/g2o")
+# set(CMAKE_PREFIX_PATH "/home/tzy/ORB3/ORB_SLAM3_rostopic/Thirdparty/g2o")
 find_package(G2O REQUIRED)
 message(STATUS "${G2O_INCLUDE_DIR}")
 include_directories(${G2O_INCLUDE_DIRS})
